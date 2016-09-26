@@ -13,7 +13,7 @@ public class Hello {
     public static void hello(){
         System.out.println("bonjour");
         System.out.println("tous le monde");
-        System.out.println("vous etez trop cool");
+        System.out.println("tu es trop cool");
         
     }
 }

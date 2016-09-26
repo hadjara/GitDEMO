@@ -21,7 +21,11 @@ public class GitDemo {
     public static void main(String[] args) {
         // TODO code application logic here
         Hello.hello();
-        String nom;
+        
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Veuillez saisir un nombre :");
+        String nom = sc.nextLine();
+        System.out.println( sc);
         
         
     }
