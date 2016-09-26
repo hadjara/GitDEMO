@@ -26,6 +26,7 @@ public class GitDemo {
         System.out.println("Veuillez saisir un nom :");
         String nom = sc.nextLine();
         Hello.hello(nom);
+        System.out.println("merci");
         
     }
     
