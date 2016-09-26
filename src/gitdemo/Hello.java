@@ -11,6 +11,6 @@ package gitdemo;
  */
 public class Hello {
     public static void hello(){
-        System.out.println("HELLO");
+        System.out.println("bonjour");
             }
 }
