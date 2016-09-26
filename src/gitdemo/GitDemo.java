@@ -23,10 +23,11 @@ public class GitDemo {
         
         
         Scanner sc = new Scanner(System.in);
-        System.out.println("Veuillez saisir un nom :");
+        System.out.println("Veuillez saisir le nom");
         String nom = sc.nextLine();
         Hello.hello(nom);
         System.out.println("merci");
+        
         
     }
     
