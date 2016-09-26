@@ -10,10 +10,10 @@ package gitdemo;
  * @author ge291147
  */
 public class Hello {
-    public static void hello(){
-        System.out.println("bonjour");
+    public static void hello(String nom){
+        System.out.println("bonjour ");
         System.out.println("tous le monde");
-        System.out.println("tu es trop cool");
+        System.out.println(nom+" tu es trop cool");
         
     }
 }
